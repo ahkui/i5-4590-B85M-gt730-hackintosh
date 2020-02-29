@@ -27,4 +27,4 @@ GT730：正常。原生驅動。注意：gt730 僅支持開普勒架構的。
 關機開機：正常。
 
 iCloud & App Store & iMessage & FaceTime：請自行生成MLB、 ROM、SystemSerialNumber、SystemUUID，並相應的修改PlatformInfo -> Generic。
-AirDrop & HandOff & Continuity：正常。
+

@@ -1,5 +1,6 @@
 # i5-4590-B85M-gt730-hackintosh
 
+[教程](https://wtfsec.org/posts/opencore-%E9%BB%91%E8%98%8B%E6%9E%9C10.15-%E7%B4%80%E9%8C%84/)
  
 cpu：intel i5 4590
 

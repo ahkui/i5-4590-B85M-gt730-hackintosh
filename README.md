@@ -11,9 +11,9 @@ cpu：intel i5 4590
 
 ---
 
-系統版本：macOS Catalina 10.15.3
+系統版本：macOS Catalina 10.15.4
 
-OpenCore 版本：0.5.5
+OpenCore 版本：0.5.7
 
 HD Graphics 4600：本人電腦的壞了，沒測試。
 
@@ -29,3 +29,6 @@ GT730：正常。原生驅動。注意：gt730 僅支持開普勒架構的。
 
 iCloud & App Store & iMessage & FaceTime：請自行生成MLB、 ROM、SystemSerialNumber、SystemUUID，並相應的修改PlatformInfo -> Generic。
 
+---
+更新日誌：
+2020/04/09:更新opencore版本0.5.7

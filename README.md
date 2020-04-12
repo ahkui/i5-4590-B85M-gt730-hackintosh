@@ -31,4 +31,7 @@ iCloud & App Store & iMessage & FaceTime：請自行生成MLB、 ROM、SystemSer
 
 ---
 更新日誌：
+
 2020/04/09:更新opencore版本0.5.7
+
+2020/04/12:修改配置文件，啟用官方RTC補丁，修復啟用小憩後自動喚醒的問題。
